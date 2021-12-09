@@ -1,0 +1,277 @@
+(base) lujiayuan@lujiayuan-Inspiron-16-7610:~/cvpr/Homework5$ python dataloader_152.py 
+/home/lujiayuan/anaconda3/lib/python3.8/site-packages/torchvision/transforms/transforms.py:279: UserWarning: The use of the transforms.Scale transform is deprecated, please use transforms.Resize instead.
+  warnings.warn("The use of the transforms.Scale transform is deprecated, " +
+Epoch: 1/30
+100%|████████████████████████████████████████| 318/318 [03:36<00:00,  1.47it/s]
+100%|██████████████████████████████████████████| 41/41 [00:24<00:00,  1.68it/s]
+Epoch : 000, Training: Loss: 2.4449, Accuracy: 49.6901%, 
+		Validation : Loss : 1.0256, Accuracy: 74.9416%, Time: 240.8758s
+Epoch: 2/30
+100%|████████████████████████████████████████| 318/318 [03:11<00:00,  1.66it/s]
+100%|██████████████████████████████████████████| 41/41 [00:23<00:00,  1.71it/s]
+Epoch : 001, Training: Loss: 0.9852, Accuracy: 74.7885%, 
+		Validation : Loss : 0.7816, Accuracy: 78.8716%, Time: 215.1946s
+Epoch: 3/30
+100%|████████████████████████████████████████| 318/318 [03:19<00:00,  1.60it/s]
+100%|██████████████████████████████████████████| 41/41 [00:25<00:00,  1.58it/s]
+Epoch : 002, Training: Loss: 0.7911, Accuracy: 78.8272%, 
+		Validation : Loss : 0.6987, Accuracy: 81.1673%, Time: 225.2256s
+Epoch: 4/30
+100%|████████████████████████████████████████| 318/318 [03:21<00:00,  1.58it/s]
+100%|██████████████████████████████████████████| 41/41 [00:25<00:00,  1.59it/s]
+Epoch : 003, Training: Loss: 0.6930, Accuracy: 81.0950%, 
+		Validation : Loss : 0.6526, Accuracy: 82.1790%, Time: 227.1129s
+Epoch: 5/30
+100%|████████████████████████████████████████| 318/318 [03:25<00:00,  1.55it/s]
+100%|██████████████████████████████████████████| 41/41 [00:25<00:00,  1.61it/s]
+Epoch : 004, Training: Loss: 0.6252, Accuracy: 82.9349%, 
+		Validation : Loss : 0.6684, Accuracy: 81.8677%, Time: 230.7925s
+Epoch: 6/30
+100%|████████████████████████████████████████| 318/318 [03:24<00:00,  1.56it/s]
+100%|██████████████████████████████████████████| 41/41 [00:25<00:00,  1.63it/s]
+Epoch : 005, Training: Loss: 0.5670, Accuracy: 84.0319%, 
+		Validation : Loss : 0.6445, Accuracy: 82.9961%, Time: 229.6631s
+Epoch: 7/30
+100%|████████████████████████████████████████| 318/318 [03:23<00:00,  1.56it/s]
+100%|██████████████████████████████████████████| 41/41 [00:25<00:00,  1.62it/s]
+Epoch : 006, Training: Loss: 0.5329, Accuracy: 84.6271%, 
+		Validation : Loss : 0.6547, Accuracy: 82.2568%, Time: 228.7187s
+Epoch: 8/30
+100%|████████████████████████████████████████| 318/318 [03:24<00:00,  1.55it/s]
+100%|██████████████████████████████████████████| 41/41 [00:25<00:00,  1.60it/s]
+Epoch : 007, Training: Loss: 0.4895, Accuracy: 86.0045%, 
+		Validation : Loss : 0.6640, Accuracy: 82.4125%, Time: 230.2073s
+Epoch: 9/30
+100%|████████████████████████████████████████| 318/318 [03:25<00:00,  1.55it/s]
+100%|██████████████████████████████████████████| 41/41 [00:25<00:00,  1.59it/s]
+Epoch : 008, Training: Loss: 0.4635, Accuracy: 86.5112%, 
+		Validation : Loss : 0.6687, Accuracy: 82.8794%, Time: 231.3915s
+Epoch: 10/30
+100%|████████████████████████████████████████| 318/318 [03:25<00:00,  1.55it/s]
+100%|██████████████████████████████████████████| 41/41 [00:25<00:00,  1.61it/s]
+Epoch : 009, Training: Loss: 0.4399, Accuracy: 87.0425%, 
+		Validation : Loss : 0.6601, Accuracy: 82.7626%, Time: 230.9075s
+Epoch: 11/30
+100%|████████████████████████████████████████| 318/318 [03:25<00:00,  1.55it/s]
+100%|██████████████████████████████████████████| 41/41 [00:25<00:00,  1.60it/s]
+Epoch : 010, Training: Loss: 0.4132, Accuracy: 87.5935%, 
+		Validation : Loss : 0.6643, Accuracy: 83.0739%, Time: 230.5752s
+Epoch: 12/30
+100%|████████████████████████████████████████| 318/318 [04:13<00:00,  1.25it/s]
+100%|██████████████████████████████████████████| 41/41 [00:39<00:00,  1.03it/s]
+Epoch : 011, Training: Loss: 0.4009, Accuracy: 88.0214%, 
+		Validation : Loss : 0.6878, Accuracy: 82.5292%, Time: 293.5979s
+Epoch: 13/30
+100%|████████████████████████████████████████| 318/318 [05:12<00:00,  1.02it/s]
+100%|██████████████████████████████████████████| 41/41 [00:39<00:00,  1.05it/s]
+Epoch : 012, Training: Loss: 0.3718, Accuracy: 88.7397%, 
+		Validation : Loss : 0.6892, Accuracy: 83.4241%, Time: 351.6190s
+Epoch: 14/30
+100%|████████████████████████████████████████| 318/318 [05:08<00:00,  1.03it/s]
+100%|██████████████████████████████████████████| 41/41 [00:33<00:00,  1.23it/s]
+Epoch : 013, Training: Loss: 0.3589, Accuracy: 88.7052%, 
+		Validation : Loss : 0.7312, Accuracy: 82.8794%, Time: 341.7936s
+Epoch: 15/30
+100%|████████████████████████████████████████| 318/318 [03:19<00:00,  1.59it/s]
+100%|██████████████████████████████████████████| 41/41 [00:25<00:00,  1.62it/s]
+Epoch : 014, Training: Loss: 0.3423, Accuracy: 89.2759%, 
+		Validation : Loss : 0.7071, Accuracy: 82.9961%, Time: 225.0861s
+Epoch: 16/30
+100%|████████████████████████████████████████| 318/318 [03:22<00:00,  1.57it/s]
+100%|██████████████████████████████████████████| 41/41 [00:25<00:00,  1.60it/s]
+Epoch : 015, Training: Loss: 0.3374, Accuracy: 89.4382%, 
+		Validation : Loss : 0.7556, Accuracy: 81.7121%, Time: 228.3630s
+Epoch: 17/30
+100%|████████████████████████████████████████| 318/318 [03:27<00:00,  1.53it/s]
+100%|██████████████████████████████████████████| 41/41 [00:25<00:00,  1.61it/s]
+Epoch : 016, Training: Loss: 0.3242, Accuracy: 89.9154%, 
+		Validation : Loss : 0.7571, Accuracy: 81.9455%, Time: 233.3819s
+Epoch: 18/30
+100%|████████████████████████████████████████| 318/318 [03:24<00:00,  1.55it/s]
+100%|██████████████████████████████████████████| 41/41 [00:26<00:00,  1.55it/s]
+Epoch : 017, Training: Loss: 0.3122, Accuracy: 90.2942%, 
+		Validation : Loss : 0.7091, Accuracy: 82.9183%, Time: 231.1924s
+Epoch: 19/30
+100%|████████████████████████████████████████| 318/318 [03:26<00:00,  1.54it/s]
+100%|██████████████████████████████████████████| 41/41 [00:26<00:00,  1.57it/s]
+Epoch : 018, Training: Loss: 0.3125, Accuracy: 90.0826%, 
+		Validation : Loss : 0.7726, Accuracy: 82.2568%, Time: 232.7289s
+Epoch: 20/30
+100%|████████████████████████████████████████| 318/318 [03:27<00:00,  1.53it/s]
+100%|██████████████████████████████████████████| 41/41 [00:26<00:00,  1.57it/s]
+Epoch : 019, Training: Loss: 0.2879, Accuracy: 90.6582%, 
+		Validation : Loss : 0.7958, Accuracy: 82.4125%, Time: 233.5881s
+Epoch: 21/30
+100%|████████████████████████████████████████| 318/318 [03:26<00:00,  1.54it/s]
+100%|██████████████████████████████████████████| 41/41 [00:25<00:00,  1.61it/s]
+Epoch : 020, Training: Loss: 0.2845, Accuracy: 90.9730%, 
+		Validation : Loss : 0.8022, Accuracy: 82.9572%, Time: 232.1619s
+Epoch: 22/30
+100%|████████████████████████████████████████| 318/318 [03:20<00:00,  1.59it/s]
+100%|██████████████████████████████████████████| 41/41 [00:25<00:00,  1.63it/s]
+Epoch : 021, Training: Loss: 0.2789, Accuracy: 91.1206%, 
+		Validation : Loss : 0.8085, Accuracy: 83.0739%, Time: 225.3668s
+Epoch: 23/30
+100%|████████████████████████████████████████| 318/318 [03:20<00:00,  1.59it/s]
+100%|██████████████████████████████████████████| 41/41 [00:24<00:00,  1.65it/s]
+Epoch : 022, Training: Loss: 0.2679, Accuracy: 91.3371%, 
+		Validation : Loss : 0.8578, Accuracy: 82.8794%, Time: 225.1271s
+Epoch: 24/30
+100%|████████████████████████████████████████| 318/318 [03:18<00:00,  1.60it/s]
+100%|██████████████████████████████████████████| 41/41 [00:24<00:00,  1.64it/s]
+Epoch : 023, Training: Loss: 0.2691, Accuracy: 91.3076%, 
+		Validation : Loss : 0.8251, Accuracy: 82.6070%, Time: 223.5755s
+Epoch: 25/30
+100%|████████████████████████████████████████| 318/318 [03:18<00:00,  1.60it/s]
+100%|██████████████████████████████████████████| 41/41 [00:24<00:00,  1.64it/s]
+Epoch : 024, Training: Loss: 0.2779, Accuracy: 91.0714%, 
+		Validation : Loss : 0.7749, Accuracy: 82.9961%, Time: 223.8487s
+Epoch: 26/30
+100%|████████████████████████████████████████| 318/318 [03:18<00:00,  1.60it/s]
+100%|██████████████████████████████████████████| 41/41 [00:24<00:00,  1.65it/s]
+Epoch : 025, Training: Loss: 0.2558, Accuracy: 92.2717%, 
+		Validation : Loss : 0.8053, Accuracy: 83.5798%, Time: 223.2712s
+Epoch: 27/30
+100%|████████████████████████████████████████| 318/318 [03:18<00:00,  1.60it/s]
+100%|██████████████████████████████████████████| 41/41 [00:24<00:00,  1.65it/s]
+Epoch : 026, Training: Loss: 0.2464, Accuracy: 92.2078%, 
+		Validation : Loss : 0.8951, Accuracy: 82.1012%, Time: 223.0167s
+Epoch: 28/30
+100%|████████████████████████████████████████| 318/318 [03:18<00:00,  1.60it/s]
+100%|██████████████████████████████████████████| 41/41 [00:24<00:00,  1.65it/s]
+Epoch : 027, Training: Loss: 0.2497, Accuracy: 92.0012%, 
+		Validation : Loss : 0.8755, Accuracy: 81.9455%, Time: 223.2483s
+Epoch: 29/30
+100%|████████████████████████████████████████| 318/318 [03:18<00:00,  1.60it/s]
+100%|██████████████████████████████████████████| 41/41 [00:24<00:00,  1.65it/s]
+Epoch : 028, Training: Loss: 0.2463, Accuracy: 92.0356%, 
+		Validation : Loss : 0.8431, Accuracy: 83.1128%, Time: 223.2114s
+Epoch: 30/30
+100%|████████████████████████████████████████| 318/318 [03:17<00:00,  1.61it/s]
+100%|██████████████████████████████████████████| 41/41 [00:24<00:00,  1.65it/s]
+Epoch : 029, Training: Loss: 0.2347, Accuracy: 92.7440%, 
+		Validation : Loss : 0.8591, Accuracy: 83.5409%, Time: 222.4509s
+Test Batch number: 000, Test: Loss: 0.2570, Accuracy: 0.9688
+Test Batch number: 001, Test: Loss: 2.7032, Accuracy: 0.6562
+Test Batch number: 002, Test: Loss: 2.0249, Accuracy: 0.6719
+Test Batch number: 003, Test: Loss: 0.4184, Accuracy: 0.9219
+Test Batch number: 004, Test: Loss: 0.8736, Accuracy: 0.7812
+Test Batch number: 005, Test: Loss: 0.4925, Accuracy: 0.9375
+Test Batch number: 006, Test: Loss: 0.5621, Accuracy: 0.8594
+Test Batch number: 007, Test: Loss: 0.9644, Accuracy: 0.7969
+Test Batch number: 008, Test: Loss: 2.0200, Accuracy: 0.7656
+Test Batch number: 009, Test: Loss: 0.5761, Accuracy: 0.8438
+Test Batch number: 010, Test: Loss: 1.0020, Accuracy: 0.8438
+Test Batch number: 011, Test: Loss: 1.1359, Accuracy: 0.8438
+Test Batch number: 012, Test: Loss: 0.5004, Accuracy: 0.8594
+Test Batch number: 013, Test: Loss: 1.3090, Accuracy: 0.7344
+Test Batch number: 014, Test: Loss: 0.9151, Accuracy: 0.8125
+Test Batch number: 015, Test: Loss: 0.7124, Accuracy: 0.8594
+Test Batch number: 016, Test: Loss: 0.9464, Accuracy: 0.7969
+Test Batch number: 017, Test: Loss: 1.6260, Accuracy: 0.8125
+Test Batch number: 018, Test: Loss: 1.5916, Accuracy: 0.7812
+Test Batch number: 019, Test: Loss: 1.5969, Accuracy: 0.6562
+Test Batch number: 020, Test: Loss: 1.2557, Accuracy: 0.8125
+Test Batch number: 021, Test: Loss: 0.3305, Accuracy: 0.9375
+Test Batch number: 022, Test: Loss: 1.1081, Accuracy: 0.7969
+Test Batch number: 023, Test: Loss: 1.1445, Accuracy: 0.7500
+Test Batch number: 024, Test: Loss: 1.1467, Accuracy: 0.7969
+Test Batch number: 025, Test: Loss: 1.7948, Accuracy: 0.7188
+Test Batch number: 026, Test: Loss: 1.1540, Accuracy: 0.7969
+Test Batch number: 027, Test: Loss: 2.7423, Accuracy: 0.5000
+Test Batch number: 028, Test: Loss: 1.6216, Accuracy: 0.7031
+Test Batch number: 029, Test: Loss: 0.6228, Accuracy: 0.8438
+Test Batch number: 030, Test: Loss: 1.2339, Accuracy: 0.8125
+Test Batch number: 031, Test: Loss: 1.2867, Accuracy: 0.7500
+Test Batch number: 032, Test: Loss: 1.7487, Accuracy: 0.6250
+Test Batch number: 033, Test: Loss: 0.5934, Accuracy: 0.8906
+Test Batch number: 034, Test: Loss: 1.2842, Accuracy: 0.8125
+Test Batch number: 035, Test: Loss: 1.0455, Accuracy: 0.8438
+Test Batch number: 036, Test: Loss: 1.2445, Accuracy: 0.7969
+Test Batch number: 037, Test: Loss: 0.4456, Accuracy: 0.8750
+Test Batch number: 038, Test: Loss: 0.9595, Accuracy: 0.8438
+Test Batch number: 039, Test: Loss: 0.7106, Accuracy: 0.9062
+Test Batch number: 040, Test: Loss: 1.1175, Accuracy: 0.9062
+Test Batch number: 041, Test: Loss: 0.1843, Accuracy: 0.9375
+Test Batch number: 042, Test: Loss: 0.3008, Accuracy: 0.9375
+Test Batch number: 043, Test: Loss: 0.7637, Accuracy: 0.8750
+Test Batch number: 044, Test: Loss: 0.6297, Accuracy: 0.8906
+Test Batch number: 045, Test: Loss: 0.9298, Accuracy: 0.8594
+Test Batch number: 046, Test: Loss: 0.6570, Accuracy: 0.8594
+Test Batch number: 047, Test: Loss: 0.8842, Accuracy: 0.7969
+Test Batch number: 048, Test: Loss: 0.3315, Accuracy: 0.8906
+Test Batch number: 049, Test: Loss: 0.3813, Accuracy: 0.9219
+Test Batch number: 050, Test: Loss: 1.9851, Accuracy: 0.7500
+Test Batch number: 051, Test: Loss: 0.4020, Accuracy: 0.9219
+Test Batch number: 052, Test: Loss: 1.0580, Accuracy: 0.8281
+Test Batch number: 053, Test: Loss: 1.2109, Accuracy: 0.7500
+Test Batch number: 054, Test: Loss: 1.1262, Accuracy: 0.8906
+Test Batch number: 055, Test: Loss: 2.6592, Accuracy: 0.5312
+Test Batch number: 056, Test: Loss: 0.8008, Accuracy: 0.7812
+Test Batch number: 057, Test: Loss: 0.9240, Accuracy: 0.7812
+Test Batch number: 058, Test: Loss: 0.5312, Accuracy: 0.8281
+Test Batch number: 059, Test: Loss: 0.8037, Accuracy: 0.9062
+Test Batch number: 060, Test: Loss: 1.1828, Accuracy: 0.8594
+Test Batch number: 061, Test: Loss: 0.7776, Accuracy: 0.8125
+Test Batch number: 062, Test: Loss: 0.5890, Accuracy: 0.8750
+Test Batch number: 063, Test: Loss: 0.6930, Accuracy: 0.8281
+Test Batch number: 064, Test: Loss: 0.4509, Accuracy: 0.9531
+Test Batch number: 065, Test: Loss: 0.8383, Accuracy: 0.7969
+Test Batch number: 066, Test: Loss: 1.0745, Accuracy: 0.7969
+Test Batch number: 067, Test: Loss: 1.1052, Accuracy: 0.7969
+Test Batch number: 068, Test: Loss: 0.6816, Accuracy: 0.7656
+Test Batch number: 069, Test: Loss: 1.3446, Accuracy: 0.7656
+Test Batch number: 070, Test: Loss: 0.2032, Accuracy: 0.9219
+Test Batch number: 071, Test: Loss: 0.4287, Accuracy: 0.8906
+Test Batch number: 072, Test: Loss: 2.2066, Accuracy: 0.6562
+Test Batch number: 073, Test: Loss: 0.3259, Accuracy: 0.8906
+Test Batch number: 074, Test: Loss: 1.0839, Accuracy: 0.7656
+Test Batch number: 075, Test: Loss: 0.9964, Accuracy: 0.8281
+Test Batch number: 076, Test: Loss: 1.2722, Accuracy: 0.7656
+Test Batch number: 077, Test: Loss: 2.3362, Accuracy: 0.6562
+Test Batch number: 078, Test: Loss: 0.9721, Accuracy: 0.8125
+Test Batch number: 079, Test: Loss: 1.1688, Accuracy: 0.7812
+Test Batch number: 080, Test: Loss: 0.8598, Accuracy: 0.7656
+Test Batch number: 081, Test: Loss: 0.8831, Accuracy: 0.8438
+Test Batch number: 082, Test: Loss: 0.4650, Accuracy: 0.8906
+Test Batch number: 083, Test: Loss: 0.4687, Accuracy: 0.9375
+Test Batch number: 084, Test: Loss: 0.3823, Accuracy: 0.9062
+Test Batch number: 085, Test: Loss: 0.2417, Accuracy: 0.9062
+Test Batch number: 086, Test: Loss: 1.5876, Accuracy: 0.6875
+Test Batch number: 087, Test: Loss: 1.2959, Accuracy: 0.7656
+Test Batch number: 088, Test: Loss: 1.2016, Accuracy: 0.7969
+Test Batch number: 089, Test: Loss: 0.5947, Accuracy: 0.8438
+Test Batch number: 090, Test: Loss: 1.2695, Accuracy: 0.8281
+Test Batch number: 091, Test: Loss: 2.2320, Accuracy: 0.6719
+Test Batch number: 092, Test: Loss: 1.2586, Accuracy: 0.8281
+Test Batch number: 093, Test: Loss: 1.4796, Accuracy: 0.7656
+Test Batch number: 094, Test: Loss: 1.3225, Accuracy: 0.6719
+Test Batch number: 095, Test: Loss: 1.1486, Accuracy: 0.8594
+Test Batch number: 096, Test: Loss: 1.2040, Accuracy: 0.7188
+Test Batch number: 097, Test: Loss: 1.7892, Accuracy: 0.6406
+Test Batch number: 098, Test: Loss: 0.6095, Accuracy: 0.9062
+Test Batch number: 099, Test: Loss: 0.3268, Accuracy: 0.9062
+Test Batch number: 100, Test: Loss: 0.8937, Accuracy: 0.8438
+Test Batch number: 101, Test: Loss: 0.7357, Accuracy: 0.8750
+Test Batch number: 102, Test: Loss: 1.9447, Accuracy: 0.7344
+Test Batch number: 103, Test: Loss: 0.5055, Accuracy: 0.9062
+Test Batch number: 104, Test: Loss: 0.8302, Accuracy: 0.8594
+Test Batch number: 105, Test: Loss: 0.8053, Accuracy: 0.8750
+Test Batch number: 106, Test: Loss: 0.4098, Accuracy: 0.9062
+Test Batch number: 107, Test: Loss: 0.9784, Accuracy: 0.8125
+Test Batch number: 108, Test: Loss: 1.1120, Accuracy: 0.8281
+Test Batch number: 109, Test: Loss: 1.9320, Accuracy: 0.7031
+Test Batch number: 110, Test: Loss: 0.9205, Accuracy: 0.7812
+Test Batch number: 111, Test: Loss: 0.5941, Accuracy: 0.8750
+Test Batch number: 112, Test: Loss: 0.5363, Accuracy: 0.8906
+Test Batch number: 113, Test: Loss: 0.8727, Accuracy: 0.8125
+Test Batch number: 114, Test: Loss: 1.6691, Accuracy: 0.7031
+Test Batch number: 115, Test: Loss: 1.2847, Accuracy: 0.8125
+Test Batch number: 116, Test: Loss: 2.5038, Accuracy: 0.6875
+Test Batch number: 117, Test: Loss: 0.0059, Accuracy: 1.0000
+Test Batch number: 118, Test: Loss: 0.5600, Accuracy: 0.9062
+Test Batch number: 119, Test: Loss: 1.0054, Accuracy: 0.8281
+Test Batch number: 120, Test: Loss: 0.2640, Accuracy: 0.8966
+Test accuracy : 0.8157997146347398
+Test loss : 1.0290626984677715
+
